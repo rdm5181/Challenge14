@@ -58,7 +58,7 @@ In the findings, the SVM machine learning method fit the early data rather well 
 
 ![SMV Model](SVM_Model.png "SVM Model")
 
-![XGB Model](XGM_Model.png "XGB Model")
+![XGB Model](XGB_Model.png "XGB Model")
 
 
 The accuracy of the longer training window went up, but that is mainly because there are fewer opportunities to buy.
